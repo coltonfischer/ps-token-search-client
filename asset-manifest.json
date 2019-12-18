@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ps-token-search-client/static/js/main.c53d2e51.chunk.js",
-    "main.js.map": "/ps-token-search-client/static/js/main.c53d2e51.chunk.js.map",
+    "main.js": "/ps-token-search-client/static/js/main.3d28249e.chunk.js",
+    "main.js.map": "/ps-token-search-client/static/js/main.3d28249e.chunk.js.map",
     "runtime-main.js": "/ps-token-search-client/static/js/runtime-main.c6b29e5e.js",
     "runtime-main.js.map": "/ps-token-search-client/static/js/runtime-main.c6b29e5e.js.map",
     "static/js/2.06eac9f9.chunk.js": "/ps-token-search-client/static/js/2.06eac9f9.chunk.js",
     "static/js/2.06eac9f9.chunk.js.map": "/ps-token-search-client/static/js/2.06eac9f9.chunk.js.map",
     "index.html": "/ps-token-search-client/index.html",
-    "precache-manifest.421f4ae9ad3a64f8a50ccbd745b60407.js": "/ps-token-search-client/precache-manifest.421f4ae9ad3a64f8a50ccbd745b60407.js",
+    "precache-manifest.1a946d288eac14247ed841c505c21ce2.js": "/ps-token-search-client/precache-manifest.1a946d288eac14247ed841c505c21ce2.js",
     "service-worker.js": "/ps-token-search-client/service-worker.js",
     "static/js/2.06eac9f9.chunk.js.LICENSE": "/ps-token-search-client/static/js/2.06eac9f9.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.c6b29e5e.js",
     "static/js/2.06eac9f9.chunk.js",
-    "static/js/main.c53d2e51.chunk.js"
+    "static/js/main.3d28249e.chunk.js"
   ]
 }
