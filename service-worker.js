@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ps-token-search-client/precache-manifest.0aecebca6bba6108a7cc99e197668d0b.js"
+  "/ps-token-search-client/precache-manifest.b40250339caa04a92d51b6ba23e297ef.js"
 );
 
 self.addEventListener('message', (event) => {
