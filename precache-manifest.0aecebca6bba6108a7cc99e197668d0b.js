@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5ccb06423d924ce226305e80148662a",
+    "revision": "5567563f33be835e8abebb67af217cd3",
     "url": "/ps-token-search-client/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ps-token-search-client/static/js/2.06eac9f9.chunk.js.LICENSE"
   },
   {
-    "revision": "7afe44a0bc73405cd932",
-    "url": "/ps-token-search-client/static/js/main.3d28249e.chunk.js"
+    "revision": "138d6ac01fe4f72fe2d2",
+    "url": "/ps-token-search-client/static/js/main.b94850e2.chunk.js"
   },
   {
     "revision": "40df623c2360b4e1030e",
